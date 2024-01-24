@@ -1,0 +1,2 @@
+# ducker-solution
+Javascript project
